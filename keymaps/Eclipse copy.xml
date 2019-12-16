@@ -13,6 +13,9 @@
   </action>
   <action id="FindUsagesInFile" />
   <action id="GotoBookmark1" />
+  <action id="ReplaceInPath">
+    <keyboard-shortcut first-keystroke="ctrl alt r" />
+  </action>
   <action id="ScrollTreeToCenter" />
   <action id="ShowErrorDescription" />
   <action id="ShowIntentionActions">
