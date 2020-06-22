@@ -10,7 +10,7 @@
 #808080 | 128, 128, 128
 #74715e | 116, 113, 94 
 #f6f6f6 | 246, 246, 246</property>
-    <property name="modified">2019-10-03T15:57:11</property>
+    <property name="modified">2019-08-06T15:57:37</property>
     <property name="vendorMail" />
     <property name="vendorName">intellij-obsidian-monokai</property>
     <property name="vendorUrl">http://</property>
@@ -184,21 +184,6 @@
     <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="ffcd22" />
-      </value>
-    </option>
-    <option name="DART_CLASS">
-      <value>
-        <option name="FOREGROUND" value="a7e22e" />
-      </value>
-    </option>
-    <option name="DART_STATIC_METHOD_DECLARATION">
-      <value>
-        <option name="FOREGROUND" value="70e4df" />
-      </value>
-    </option>
-    <option name="DART_TOP_LEVEL_FUNCTION_DECLARATION">
-      <value>
-        <option name="FOREGROUND" value="ffdc74" />
       </value>
     </option>
     <option name="DEFAULT_ATTRIBUTE">
