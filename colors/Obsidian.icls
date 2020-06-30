@@ -10,7 +10,7 @@
 #808080 | 128, 128, 128
 #74715e | 116, 113, 94 
 #f6f6f6 | 246, 246, 246</property>
-    <property name="modified">2019-08-06T15:57:37</property>
+    <property name="modified">2020-06-30T10:40:11</property>
     <property name="vendorMail" />
     <property name="vendorName">intellij-obsidian-monokai</property>
     <property name="vendorUrl">http://</property>
@@ -419,8 +419,9 @@
     </option>
     <option name="ERRORS_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="bc3f3c" />
-        <option name="ERROR_STRIPE_COLOR" value="bc3f3c" />
+        <option name="BACKGROUND" value="ca0300" />
+        <option name="EFFECT_COLOR" value="ff2d00" />
+        <option name="ERROR_STRIPE_COLOR" value="ff1d00" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
@@ -583,6 +584,40 @@
       <value>
         <option name="BACKGROUND" value="616161" />
         <option name="ERROR_STRIPE_COLOR" value="616161" />
+      </value>
+    </option>
+    <option name="SONARLINT_BLOCKER">
+      <value>
+        <option name="BACKGROUND" value="536400" />
+        <option name="ERROR_STRIPE_COLOR" value="d8c719" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="SONARLINT_CRITICAL">
+      <value>
+        <option name="BACKGROUND" value="ca0300" />
+        <option name="ERROR_STRIPE_COLOR" value="d8c719" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="SONARLINT_MAJOR">
+      <value>
+        <option name="BACKGROUND" value="ca0300" />
+        <option name="ERROR_STRIPE_COLOR" value="d8c719" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="SONARLINT_MINOR">
+      <value>
+        <option name="BACKGROUND" value="6e0300" />
+        <option name="ERROR_STRIPE_COLOR" value="d8c719" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="SONARLINT_SELECTED">
+      <value>
+        <option name="FOREGROUND" value="0" />
+        <option name="BACKGROUND" value="e8da64" />
       </value>
     </option>
     <option name="STATIC_FIELD_ATTRIBUTES">

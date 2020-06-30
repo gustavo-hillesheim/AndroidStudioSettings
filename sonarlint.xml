@@ -2,7 +2,9 @@
   <component name="SonarLintGlobalSettings">
     <option name="excludedRules">
       <set>
+        <option value="squid:S1075" />
         <option value="squid:S1854" />
+        <option value="squid:S3752" />
       </set>
     </option>
     <option name="sonarQubeServers">
