@@ -1,22 +1,20 @@
 <application>
   <component name="SonarLintGlobalSettings">
-    <option name="excludedRules">
-      <set>
-        <option value="squid:S1075" />
-        <option value="squid:S1854" />
-        <option value="squid:S2068" />
-        <option value="squid:S3752" />
-      </set>
-    </option>
     <option name="sonarQubeServers">
       <list>
         <SonarQubeServer>
-          <option name="hostUrl" value="http://sonar.fabrica.senior.com.br/" />
-          <token>dfcedfcbdfcedf9ddfcedf93df99df9edfcedf9adfcbdfccdf9edf9fdf92df99df9bdf93df9fdfcfdf99df9cdf9cdfccdf93df98dfcedfc8dfc8df93df99dfc9df9ddf98df92dfcbdf92df9adf9cdf9c</token>
+          <option name="hostUrl" value="http://sonar.dockerfabrica.senior.com.br/" />
+          <token>df98dfc9dfcbdfc9dfcedf9bdfccdf92df92df9cdfcbdf99df99df9edf93df93dfc8dfcedfcbdf9edf99df93dfcedf9adf9fdf93dfcedf9ddfc8df9bdf9adfc8df9bdf9edfc8dfcbdf92dfccdfcedf9a</token>
           <option name="name" value="Sonar Fábrica" />
           <organizationKey>default-organization</organizationKey>
         </SonarQubeServer>
       </list>
     </option>
+    <rules>
+      <Rule active="false" key="squid:S2068" />
+      <Rule active="false" key="squid:S1075" />
+      <Rule active="false" key="squid:S3752" />
+      <Rule active="false" key="squid:S1854" />
+    </rules>
   </component>
 </application>
