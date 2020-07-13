@@ -1,0 +1,10 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="allowDataCollection" value="true" />
+    <option name="isHighContrast" value="true" />
+    <option name="isWizardShown" value="true" />
+    <option name="selectedTheme" value="DRACULA" />
+    <option name="userId" value="-3c0cb3f9:171cd5720ca:-8000" />
+    <option name="version" value="4.5.2" />
+  </component>
+</application>
