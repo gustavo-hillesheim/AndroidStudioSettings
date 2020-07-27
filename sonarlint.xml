@@ -13,8 +13,9 @@
     <rules>
       <Rule active="false" key="squid:S2068" />
       <Rule active="false" key="squid:S1075" />
-      <Rule active="false" key="squid:S3752" />
       <Rule active="false" key="squid:S1854" />
+      <Rule active="false" key="java:S1700" />
+      <Rule active="false" key="squid:S3752" />
     </rules>
   </component>
 </application>
