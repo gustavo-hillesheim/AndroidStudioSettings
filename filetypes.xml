@@ -1,9 +1,8 @@
 <application>
   <component name="FileTypeManager" version="17">
+    <ignoreFiles list="*.hprof;*.lock;*.pyc;*.pyo;*.rbc;*.yarb;*~;.*;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
     <extensionMap>
-      <mapping pattern="a" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping ext="template" type="PLAIN_TEXT" />
+      <mapping ext="webp" type="Image" />
     </extensionMap>
   </component>
 </application>
